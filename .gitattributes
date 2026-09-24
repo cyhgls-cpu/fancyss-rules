@@ -1,0 +1,9 @@
+# 强制关键文件使用 LF，避免 Windows 下 CRLF 导致 GitHub Actions(Linux) 运行失败
+*.sh text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+*.gz binary
