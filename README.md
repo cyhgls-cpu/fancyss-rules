@@ -35,18 +35,4 @@ bash scripts/build_rules.sh rules_ng
 - 未提及的小规则（white_list / black_list / block_list / adslist / rotlist / udplist）原作者也无官网源或属手维护，本仓库默认不生成，可手动放入 `rules_ng/` 并保持 `rules.json.js` 有对应条目（否则插件更新时会因缺字段跳过，不影响其他规则）。
 - 若想手动补齐这些小规则文件，把它们放进 `rules_ng/` 后重新跑一次 `build_rules.sh` 即可让 `rules.json.js` 收录它们（脚本已为其预留 entry）。
 
-## 使用（插件端改动）
 
-只需在路由器插件里把更新源改成你的仓库，把 `ss_rule_update.sh` 第 9 行：
-
-```sh
-URL_MAIN="https://raw.githubusercontent.com/hq450/fancyss/3.0/rules_ng"
-```
-
-改成：
-
-```sh
-URL_MAIN="https://raw.githubusercontent.com/<你的用户名>/<你的仓库>/main/rules_ng"
-```
-
-注意：`rules_ng` 目录要在仓库根目录（即 Actions 里 `bash scripts/build_rules.sh rules_ng` 输出到根目录的 `rules_ng/`）。
