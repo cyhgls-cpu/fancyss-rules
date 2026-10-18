@@ -1,82 +1,82 @@
 {
   "gfwlist": {
     "name": "gfwlist.gz",
-    "date": "2026-10-17 18:28",
-    "md5": "2fb3f934204951275666c2325ceb8d31",
+    "date": "2026-10-18 18:37",
+    "md5": "41329236b0d2aabbc48dc22a7b22b601",
     "count": "7535"
   },
   "chnlist": {
     "name": "chnlist.gz",
-    "date": "2026-10-17 18:28",
-    "md5": "fb70873d03795a847947cd412545d0cc",
+    "date": "2026-10-18 18:37",
+    "md5": "27c26f649a9f7eda489a48125e65b182",
     "count": "109795",
     "note": "merged from dnsmasq-china-list"
   },
   "chnroute": {
     "name": "chnroute.txt",
-    "date": "2026-10-17 18:28",
+    "date": "2026-10-18 18:37",
     "md5": "e92c258af0df35c5eedeca12acd1fab8",
     "count": "11166",
     "source": "merged"
   },
   "chnroute6": {
     "name": "chnroute6.txt",
-    "date": "2026-10-17 18:28",
+    "date": "2026-10-18 18:37",
     "md5": "5d58ceb3b9275f162e53d79fb5a9e447",
     "count": "2046",
     "source": "apnic"
   },
   "apple_china": {
     "name": "apple_china.txt",
-    "date": "2026-10-17 18:28",
+    "date": "2026-10-18 18:37",
     "md5": "4e4295f1172fca522bb78901aff78264",
     "count": "165"
   },
   "google_china": {
     "name": "google_china.txt",
-    "date": "2026-10-17 18:28",
+    "date": "2026-10-18 18:37",
     "md5": "9910b5e06dfcdb5a9be57e131dcc35d9",
     "count": "112"
   },
   "cdn_test": {
     "name": "cdn_test.txt",
-    "date": "2026-10-17 18:28",
+    "date": "2026-10-18 18:37",
     "md5": "20612acda4a456050fafa0cd029d664a",
     "count": "93"
   },
   "white_list": {
     "name": "white_list.txt",
-    "date": "2026-10-17 18:28",
+    "date": "2026-10-18 18:37",
     "md5": "25f05424ba3ecb16e850a56b022f4ec4",
     "count": "7"
   },
   "black_list": {
     "name": "black_list.txt",
-    "date": "2026-10-17 18:28",
+    "date": "2026-10-18 18:37",
     "md5": "ca21177ab36d888b1400cc0a4253f0fc",
     "count": "1"
   },
   "block_list": {
     "name": "block_list.txt",
-    "date": "2026-10-17 18:28",
+    "date": "2026-10-18 18:37",
     "md5": "b3de4b4c47cdd8cb5dcb11cc2d8126c9",
     "count": "903"
   },
   "adslist": {
     "name": "adslist.gz",
-    "date": "2026-10-17 18:28",
-    "md5": "c2378897053c5a2a4e1b75b7b8a09fb6",
+    "date": "2026-10-18 18:37",
+    "md5": "2fb77760605afa523467bf05d0d85591",
     "count": "110523"
   },
   "rotlist": {
     "name": "rotlist.txt",
-    "date": "2026-10-17 18:28",
+    "date": "2026-10-18 18:37",
     "md5": "8205dd76fbdca655a4862b1e37aad583",
     "count": "28"
   },
   "udplist": {
     "name": "udplist.txt",
-    "date": "2026-10-17 18:28",
+    "date": "2026-10-18 18:37",
     "md5": "28323628249066941011e39e18219911",
     "count": "50"
   }
